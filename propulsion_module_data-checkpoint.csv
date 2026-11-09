@@ -1,0 +1,11 @@
+Parameter,Specifications,numerical_value
+Lunar Polar Orbit,From 170*36500 km to lunar polar orbit,170.0
+Mission Life,carrying Lander Module & Rover upto ~100*100 km launch inection.,100.0
+Structure,Modified Version of I-3 K,-3.0
+Dry Mass,44.62 kg (including pressurant),44.62
+Propellant mass,1696.39 kg,1696.39
+Total PM Mass,2145.01 kg,2145.01
+Power Generation,"738 W, Summer slostices and with bias",738.0
+Communication,S-Brand Transponder (TTC) - with IDSN,
+Attitude Sensor,"CASS, IRAP, Micro star sensor",
+Propulsion System,Bi-propellant Propulsion System (MMH + MON30),30.0

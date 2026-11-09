@@ -1,0 +1,7 @@
+Parameter,Specification,numerical_value
+Mission Life,1 lunar day,1.0
+Mass,26 kg,26.0
+Power,50 W,50.0
+Payloads,2,2.0
+Dimensions,917*750*397,917.0
+communication,lander,

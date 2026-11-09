@@ -1,0 +1,7 @@
+Parameter,Specification,numerical_value
+Mission Life,1 Lunar day (14 Earth days),1.0
+Mass,1749.86 kg including Rover,1749.86
+Power,738 W (Winter solsitice)3,738.0
+Payloads,2000*2000*116,2000.0
+Dimesions (mm3)Communication,"ISDN, Ch-2 Orbiter, Rover",-2.0
+Landing site,"69.367621 S, 32.348126 E",69.367621
